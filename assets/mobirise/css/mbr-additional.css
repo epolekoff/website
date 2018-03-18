@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qIyX4WCs0H button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1763,10 +1763,11 @@ body {
 }
 .cid-qIyJAfDUBV {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
+  background-color: #008cff;
 }
 .cid-qIAmaU8pFI {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 120px;
   background-color: #ffffff;
 }
@@ -2326,7 +2327,7 @@ body {
 .cid-qIABINgtpu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-color: #008cff;
 }
 .cid-qIyX4WCs0H .navbar {
   padding: .5rem 0;
@@ -2490,7 +2491,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qIyX4WCs0H button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3327,6 +3328,14 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-qMBogX84U7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
+}
+.cid-qMBogX84U7 .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qIySTG1bPJ {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -3494,7 +3503,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qIyX4WCs0H button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
