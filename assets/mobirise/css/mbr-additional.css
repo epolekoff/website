@@ -1374,12 +1374,12 @@ body {
 }
 .cid-qIyX4WCs0H .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #eaf8fb;
   transition: none;
   min-height: 77px;
 }
 .cid-qIyX4WCs0H .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #eaf8fb;
 }
 .cid-qIyX4WCs0H a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIyX4WCs0H .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #eaf8fb;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #149dcc;
 }
 .cid-qIyX4WCs0H button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1763,8 +1763,11 @@ body {
 }
 .cid-qIyJAfDUBV {
   padding-top: 90px;
-  padding-bottom: 75px;
-  background-color: #008cff;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/hs-22p0-fiav-zoom-backgrounds-blank-11-1920x1080.jpg");
+}
+.cid-qIyJAfDUBV H1 {
+  color: #000000;
 }
 .cid-qIAmaU8pFI {
   padding-top: 45px;
@@ -1859,6 +1862,29 @@ body {
 }
 .cid-sNnNBXQgHM .icon-description {
   text-align: center;
+}
+.cid-sP5NdujPxB {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-sP5NdujPxB .line {
+  background-color: #f98710;
+  color: #f98710;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sP5NdujPxB .section-text {
+  padding: 2rem 0;
+}
+.cid-sP5NdujPxB .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sP5NdujPxB .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-sNnO0biPdF {
   padding-top: 15px;
@@ -3092,12 +3118,12 @@ body {
 }
 .cid-qIyX4WCs0H .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #149dcc;
   transition: none;
   min-height: 77px;
 }
 .cid-qIyX4WCs0H .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #149dcc;
 }
 .cid-qIyX4WCs0H a {
   font-style: normal;
@@ -3181,7 +3207,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIyX4WCs0H .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #149dcc;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3252,7 +3278,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #149dcc;
 }
 .cid-qIyX4WCs0H button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
