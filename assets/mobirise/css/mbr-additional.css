@@ -2654,6 +2654,83 @@ body {
   padding-bottom: 90px;
   background-color: #008cff;
 }
+.cid-t0SiexzTMC {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-t0SiexzTMC h2 {
+  text-align: left;
+}
+.cid-t0SiexzTMC h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-t0SiexzTMC p {
+  color: #767676;
+  text-align: left;
+}
+.cid-t0SiexzTMC .aside-content {
+  flex-basis: 100%;
+}
+.cid-t0SiexzTMC .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-t0SiexzTMC .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-t0SiexzTMC .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-t0SiexzTMC .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-t0SiexzTMC .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-t0SiexzTMC .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-t0SiexzTMC .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-t0SiexzTMC .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-t0SiexzTMC H2 {
+  color: #000000;
+  text-align: left;
+}
+.cid-t0SiexzTMC .mbr-text {
+  color: #000000;
+  text-align: left;
+}
+.cid-t0SiexzTMC P {
+  color: #000000;
+  text-align: left;
+}
+.cid-t0SifTXX2N {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
 .cid-stOy2MqTl9 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -3118,12 +3195,12 @@ body {
 }
 .cid-qIyX4WCs0H .navbar {
   padding: .5rem 0;
-  background: #149dcc;
+  background: #eaf8fb;
   transition: none;
   min-height: 77px;
 }
 .cid-qIyX4WCs0H .navbar-dropdown.bg-color.transparent.opened {
-  background: #149dcc;
+  background: #eaf8fb;
 }
 .cid-qIyX4WCs0H a {
   font-style: normal;
@@ -3207,7 +3284,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qIyX4WCs0H .dropdown .dropdown-menu {
-  background: #149dcc;
+  background: #eaf8fb;
   display: none;
   position: absolute;
   min-width: 5rem;
